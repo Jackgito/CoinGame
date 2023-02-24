@@ -5,4 +5,4 @@ For example: If you wanted to remove 1 coin from the 2nd. pile, you would write 
 The game continues with the next player taking their turn.
 If a player takes the last penny from the last pile, they lose the game.
 
-There are three difficultues to choose from. Easy chooses randomly, normal spots winning patterns and hard also avoids losing patterns.
+There are three difficulties to choose from. Easy chooses randomly, normal spots winning patterns and hard also avoids losing patterns.
